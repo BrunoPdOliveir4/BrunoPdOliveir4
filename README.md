@@ -1,4 +1,4 @@
-## Hi there, Im studying Front-end! 👋
+## Hi there, Im studying Full-Stack JS! 👋
 
 <!--
 **BrunoPdOliveir4/BrunoPdOliveir4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
