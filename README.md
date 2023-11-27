@@ -1,19 +1,15 @@
-## Hi there, Im studying Full-Stack JS! 👋
+## Show must go on! But before that, we need to start
 
-<!--
-**BrunoPdOliveir4/BrunoPdOliveir4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### I am Bruno Pedroso, 23 years old. I have basic knowledge in Java, Python and Cybersecurity. My most mastered programming language is Javascript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working as a freelancer
+- 🌱 I’m currently learning/improving my knowledge in NestJS
+- 🤔 I’m studying on Jala University
+- 💬 Ask me about whatever you want
+- 📫 How to reach me: - Email : bpedrosodroliveira10@gmail.com
+- ⚡ Fun fact: I was a bit busy but now i'm back
+
 
 <div align="center">
   <a href="https://github.com/BrunoPdOliveir4">
