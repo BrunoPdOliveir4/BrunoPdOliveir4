@@ -1,7 +1,7 @@
 ## Show must go on! But before that, we need to start
 
 
-### I am Bruno Pedroso, 23 years old. I have basic knowledge in Java, Python and Cybersecurity. My most mastered programming language is Javascript.
+### I am Bruno Pedroso, 23 years old. I have knowledge in Java, Python and Cybersecurity. My most mastered programming language is Javascript.
 
 - 🔭 I’m currently working as a freelancer
 - 🌱 I’m currently learning/improving my knowledge in NestJS
